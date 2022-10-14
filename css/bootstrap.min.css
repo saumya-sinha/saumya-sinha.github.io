@@ -105,9 +105,9 @@ button::-moz-focus-inner, input::-moz-focus-inner{
  padding:0
 }
 .myButton{
-background-color:#00205b;
+background-color:#7a0019;
 border-radius:3px;
-border:1px solid #00205b;
+border:1px solid #7a0019;
 display:inline-block;
 cursor:pointer;
 color:#ffffff;
@@ -3383,7 +3383,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
  }
 }
 .navbar-default{
- background-color:#00205B;
+ background-color:#7a0019;
  border-color:#e7e7e7
 }
 .navbar-default .navbar-brand{
@@ -3391,7 +3391,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 }
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus{
  color:#fff;
- background-color:#00205b;
+ background-color:#7a0019;
 }
 .navbar-default .navbar-text{
  color:#fff
@@ -3405,7 +3405,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 }
 .navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus{
  color:#fff;
- background-color:#7c7e7f
+ background-color:#ffb71e
 }
 .navbar-default .navbar-nav>.disabled>a,.navbar-default .navbar-nav>.disabled>a:hover,.navbar-default .navbar-nav>.disabled>a:focus{
  color:#ccc;

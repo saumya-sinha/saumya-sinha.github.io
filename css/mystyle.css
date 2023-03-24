@@ -15,9 +15,9 @@ a:hover {
 a:active {
   color: #bf0404;
   text-decoration: underline;
-}
-*/
-.n/*avbar {
+}*/
+
+.navbar {
   background-color: #b8b8b8;
 }
 .navbar .navbar-brand,
@@ -25,14 +25,14 @@ a:active {
   color: #3d3d3d;
   font-size: 20px;
   font-weight: bold;
-}*/
+}
 
-/*.navbar .navbar-brand:hover { color:#FFC72C; } */
-/*.navbar { 
+.navbar .navbar-brand:hover { color:#FFC72C; }
+.navbar { 
 color: #3d3d3d !important; 
 }
-*/
-/*.navbar-nav .nav-item.active .nav-link{
+
+.navbar-nav .nav-item.active .nav-link{
 color: #ffffff;
 background-color: #757373;    
 }
@@ -44,11 +44,10 @@ color: #3d3d3d;
 .navbar-nav .nav-item:hover .nav-link {
   color: #bf0404;
 }
-*/
-/*.navbar {
+.navbar {
 padding-top: 0;
 padding-bottom: 0;
-*/}
+}
 
 .custom-toggler .navbar-toggler-icon {
 background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(61, 61, 61, 0.9)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
@@ -61,7 +60,7 @@ border-color: #3d3d3d;
 .col-md-3-5 { width: 29,16667%; }
 
 .myButton {
-  /*box-shadow:inset 0px 1px 0px 0px #cf866c;*/
+  /*box-shadow:inset 0px 1px 0px 0px #cf866c;
   /*background:linear-gradient(to bottom, #d0451b 5%, #bc3315 100%);*/
   background-color:#990000;
   border-radius:3px;
